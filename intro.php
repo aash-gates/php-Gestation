@@ -3,7 +3,6 @@
 
 <head>
 	<title> PHP Syntax </title>
-<head>
 
 <body>
 
