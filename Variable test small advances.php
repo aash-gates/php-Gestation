@@ -11,3 +11,4 @@
        $age = 25;
        echo $name;//outputs what is stored in variable
        $name = 'Aash Gates';
+       $age = 25;
