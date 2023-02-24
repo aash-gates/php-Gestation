@@ -13,7 +13,6 @@
        $name = 'Aash Gates';
        $age = 25;
        $WHO_IS_HE = 'Friend of John';
-       echo "Thank you for Running this file"
     ?>
 </body>
 </html>
