@@ -12,3 +12,4 @@
        echo $name;//outputs what is stored in variable
        $name = 'Aash Gates';
        $age = 25;
+       $WHO_IS_HE = 'Friend of John';
