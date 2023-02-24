@@ -13,3 +13,4 @@
        $name = 'Aash Gates';
        $age = 25;
        $WHO_IS_HE = 'Friend of John';
+       echo "name".$name."and his age".$age."So he is".$WHO_IS_HE;
