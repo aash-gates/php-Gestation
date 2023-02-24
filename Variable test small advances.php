@@ -15,3 +15,4 @@
        $WHO_IS_HE = 'Friend of John';
        echo "name".$name."and his age".$age."So he is".$WHO_IS_HE;
        echo "Thank you for Running this file"
+    ?>
