@@ -11,3 +11,4 @@
           //Addition
           echo $num1+$num2."<br>";
           //subtraction
+          echo $num1-$num2."<br>";
