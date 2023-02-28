@@ -6,7 +6,6 @@
     </head>
     <body>
         <?php
-          $num2=6;
           //Addition
           echo $num1+$num2."<br>";
           //subtraction
