@@ -6,7 +6,6 @@
     </head>
     <body>
         <?php
-          echo "A Demo on the Arithemetic Operators"
            
         ?>
     </body>
