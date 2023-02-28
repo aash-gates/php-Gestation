@@ -6,7 +6,6 @@
     </head>
     <body>
         <?php
-          echo $num1-$num2."<br>";
           //Multiplication
           echo $num1*$num2."<br>";
           //Division
