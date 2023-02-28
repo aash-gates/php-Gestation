@@ -1,7 +1,6 @@
 <html>
     <head>
         <Title>
-            Arithemetic Operators Test
         </Title>
     </head>
     <body>
