@@ -7,3 +7,4 @@
     <body>
         <?php
           $num1=8;
+          $num2=6;
