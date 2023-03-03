@@ -4,3 +4,4 @@
             Numeric Array
         </title>
         <body>
+            <?php
