@@ -9,6 +9,7 @@
     //or you can try
     $people ['David'] ="27";
     $people ['Amy'] = "21";
+    $people ['John'] ="42";
     ?>
 </body>
     </head>
