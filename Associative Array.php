@@ -4,3 +4,4 @@
             Associative Array
         </title>
 <body>
+    <?php
