@@ -5,3 +5,4 @@
         </title>
         <body>
             <?php
+            $myarray[0]="Aash Gates";
