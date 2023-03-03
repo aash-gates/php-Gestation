@@ -7,3 +7,4 @@
             <?php
             $myarray[0]="Aash Gates";
             $myarray[1]="<strong>PHP</strong>";
+            $myarray[2]=21;
