@@ -13,6 +13,7 @@
     // loop through the array and print the key-value pairs
     foreach ($people as $name => $age) {
         echo "Name: $name, Age: $age <br>";
+    }
     ?>
 </body>
     </head>
