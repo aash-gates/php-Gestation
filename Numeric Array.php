@@ -11,3 +11,4 @@
             echo "myarray[0] is $myarray[2] and knows $myarray[1]";
             ?>
         </body>
+    </head>
