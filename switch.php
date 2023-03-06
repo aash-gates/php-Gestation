@@ -22,3 +22,4 @@
           echo "Today is Wednesday";
          break;
         }
+    switch($today){
