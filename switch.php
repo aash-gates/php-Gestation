@@ -6,3 +6,4 @@
     </head>
     <body>
         <?php
+          $today = "Mon";
