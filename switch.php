@@ -28,3 +28,4 @@
      break;
     }
 switch($today){
+  case "Fri";
