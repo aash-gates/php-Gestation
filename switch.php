@@ -7,3 +7,4 @@
     <body>
         <?php
           $today = "Mon";
+            switch($today){
