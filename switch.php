@@ -40,3 +40,4 @@ switch($today){
 }
 
 switch($today){
+  case "Sun";
