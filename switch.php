@@ -19,3 +19,4 @@
           }
         switch($today){
           case "Wed";
+          echo "Today is Wednesday";
