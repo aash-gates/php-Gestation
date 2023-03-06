@@ -46,3 +46,4 @@ switch($today){
 }
   default :
        echo "invalid Day";
+  ?>
