@@ -8,3 +8,4 @@
         switch($today){
             case "Mon":
                 echo "Today is Monday";
+                break;
