@@ -8,3 +8,4 @@
         <?php
           $today = "Mon";
             switch($today){
+             case "mon";
