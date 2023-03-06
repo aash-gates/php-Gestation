@@ -9,3 +9,4 @@
             case "Mon":
                 echo "Today is Monday";
                 break;
+            case "Tue":
