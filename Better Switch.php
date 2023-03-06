@@ -10,3 +10,4 @@
                 echo "Today is Monday";
                 break;
             case "Tue":
+                echo "Today is Tuesday";
