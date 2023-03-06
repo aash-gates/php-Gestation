@@ -9,3 +9,4 @@
           $today = "Mon";
             switch($today){
              case "mon";
+             echo "Today is Monday";
