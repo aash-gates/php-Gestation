@@ -13,3 +13,4 @@
             break;
           }
           switch($today){
+            case "Tue";
