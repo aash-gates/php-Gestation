@@ -35,3 +35,4 @@ switch($today){
 
 switch($today){
   case "Sat";
+  echo "Today is Saturday";
