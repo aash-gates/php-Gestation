@@ -26,3 +26,4 @@
       case "Thu";
       echo "Today is Thursday";
      break;
+    }
