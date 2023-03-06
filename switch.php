@@ -44,3 +44,4 @@ switch($today){
   echo "Today is Sunday";
  break;
 }
+  default :
