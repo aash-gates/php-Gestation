@@ -6,3 +6,4 @@
     <?php
         $today = date('D');
         switch($today){
+            case "Mon":
