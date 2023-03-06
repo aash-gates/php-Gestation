@@ -12,3 +12,4 @@
             case "Tue":
                 echo "Today is Tuesday";
                 break;
+            case "Wed":
