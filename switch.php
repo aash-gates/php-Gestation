@@ -34,3 +34,4 @@ switch($today){
 }
 
 switch($today){
+  case "Sat";
