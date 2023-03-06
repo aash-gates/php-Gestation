@@ -23,3 +23,4 @@
          break;
         }
     switch($today){
+      case "Thu";
