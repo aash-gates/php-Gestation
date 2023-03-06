@@ -45,3 +45,4 @@ switch($today){
  break;
 }
   default :
+       echo "invalid Day";
