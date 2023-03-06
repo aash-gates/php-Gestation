@@ -4,3 +4,4 @@
 </head>
 <body>
     <?php
+        $today = date('D');
