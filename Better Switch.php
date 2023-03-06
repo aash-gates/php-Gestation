@@ -5,3 +5,4 @@
 <body>
     <?php
         $today = date('D');
+        switch($today){
