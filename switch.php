@@ -48,3 +48,4 @@ switch($today){
        echo "invalid Day";
   ?>
     </body>
+</html>
