@@ -30,3 +30,4 @@
 switch($today){
   case "Fri";
   echo "Today is Friday";
+ break;
