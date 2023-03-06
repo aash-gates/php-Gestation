@@ -21,3 +21,4 @@
           case "Wed";
           echo "Today is Wednesday";
          break;
+        }
