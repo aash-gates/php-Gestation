@@ -4,3 +4,4 @@
     echo "opps is Traditional Gender allowed now?"; 
  }
  sayhello(); //calling the Fumnction i created just seconds ago 😁
+//end of the Program
