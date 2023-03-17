@@ -3,3 +3,4 @@
     $answer = $number*2;
     echo $answer;
  }
+?>
